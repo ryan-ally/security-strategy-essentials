@@ -18,4 +18,4 @@ Use this section to tell people how to report a vulnerability.
 
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
-declined etc. just use the dependabot or go to your insights and go to dep graph and update your version or debug it with the latest version
+declined etc. just use the dependabot or go to your insights and go to dep graph and update your version or debug it again with the latest version
